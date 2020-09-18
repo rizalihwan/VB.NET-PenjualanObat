@@ -1,0 +1,21 @@
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.exe.config
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.pdb
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan_obat.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan_obat.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.exe.config
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Debug\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan_obat.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan_obat.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Debug\Penjualan obat.vbprojResolveAssemblyReference.cache

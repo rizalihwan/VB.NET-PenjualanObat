@@ -1,0 +1,11 @@
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Release\Penjualan obat.exe.config
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Release\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Release\Penjualan obat.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\bin\Release\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan obat.vbprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan_obat.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan_obat.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan obat.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan obat.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan obat.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Penjualan obat\Penjualan obat\obj\Release\Penjualan obat.pdb
